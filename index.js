@@ -72,3 +72,4 @@ var n = 3.14159;
 var circ = (n * (R*R)).toFixed(4);
 
 console.log("A="+circ);
+console.log("teste");
