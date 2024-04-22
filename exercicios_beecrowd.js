@@ -46,7 +46,7 @@ var maiorABC = (maiorAB + n3 + Math.abs(maiorAB - n3)) / 2;
 
 console.log(maiorABC + " eh o maior"); */
 
-var input = require('fs').readFileSync('stdin', 'utf8');
+/* var input = require('fs').readFileSync('stdin', 'utf8');
 var lines = input.split('\n');
 
 var [distance] = lines[0].split(' ').map(item => parseInt(item));
@@ -54,4 +54,5 @@ var [fuel] = lines[1].split(' ').map(item => parseFloat(item));
 
 var consumption = (distance / fuel).toFixed(3)
 
-console.log(consumption + " km/l");
+console.log(consumption + " km/l"); */
+
